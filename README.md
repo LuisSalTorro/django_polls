@@ -1,0 +1,1 @@
+Followed the beginner tutorial for creating a polls app using Django
